@@ -1,0 +1,8 @@
+.well {
+    position: fixed;
+     overflow: visible;
+     width: 32%;
+     min-width: 220px;
+     height: 100%;
+     overflow-y: scroll;
+}

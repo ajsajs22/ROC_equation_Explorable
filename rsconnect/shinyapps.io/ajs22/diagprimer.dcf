@@ -1,0 +1,13 @@
+name: diagprimer
+title: diagprimer
+username:
+account: ajs22
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 253043
+bundleId: 1270400
+url: https://ajs22.shinyapps.io/diagprimer/
+when: 1521129691.99429
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/gmang.png|www/gmanr.png|www/phi2.png|www/rmang.png|www/rmanr.png|www/style.css

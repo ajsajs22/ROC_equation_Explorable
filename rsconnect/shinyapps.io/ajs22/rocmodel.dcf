@@ -1,0 +1,13 @@
+name: rocmodel
+title: rocmodel
+username:
+account: ajs22
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 300061
+bundleId: 1270421
+url: https://ajs22.shinyapps.io/rocmodel/
+when: 1521130122.50189
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/gmang.png|www/gmanr.png|www/phi2.png|www/rmang.png|www/rmanr.png
